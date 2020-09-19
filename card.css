@@ -280,7 +280,7 @@ body{
         cursor: default;
         margin-bottom: 25px;
         backface-visibility: hidden;
-        background-image:url(C-Images/12.jpg);
+        background-image:url('12.jpg');
         opacity:0.75;
         clip-path:circle(400px at 50% -50%);
     }
